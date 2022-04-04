@@ -1,5 +1,12 @@
-## Hi there 👋 I'm Carlos Daniel Valente Garcia
-<hr>
+
+
+### Hi there 👋 
+
+## I'm Carlos Daniel Valente Garcia
+
+<p align="center">
+  | Software Developer from Mexico :computer: | 
+</p>
 
 
 <!--
