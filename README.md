@@ -32,19 +32,17 @@ int main() {
 | :arrow_right: Student Informatics Engineering at CUCEI :computer_mouse: <br><br> :arrow_right: Explorer by Launch X of Innovacion Virtual :rocket: <br><br> :arrow_right: Student by Oracle Next Education :game_die: | <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250"> |
 
 
-## Technologies
+## Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![C++](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![!Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-``` c++
-#include <iostream>
-
-using namespace std;
-
-int main() {
-  string code[] = { "Javascript", "HTML", "CSS", "Python", "Java", "C++", "SQL", "PHP", "C", "C#" };
-  string tools[] = { "VueJs", "Laravel" };
-  return 0;
-}
-```
 
 
 ## Contact me
