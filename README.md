@@ -29,7 +29,7 @@ int main() {
 
 |||
 | --- | --- |
-| :arrow_right: Student Informatics Engineering at CUCEI :computer_mouse: <br><br> :arrow_right: Xplorers by Launch X of Innovacion Virtual :rocket: <br><br> :arrow_right: Student by Oracle Next Education :game_die: | <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250"> |
+| :arrow_right: Student Informatics Engineering at CUCEI :computer_mouse: <br><br> :arrow_right: Xplorer by Launch X of Innovacion Virtual :rocket: <br><br> :arrow_right: Student by Oracle Next Education :game_die: | <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250"> |
 
 
 ## Technologies
