@@ -29,10 +29,8 @@ int main() {
 
 ## About me
 
-|||
-| --- | --- |
 | :arrow_right: Student Informatics Engineering at CUCEI :computer_mouse: <br><br> :arrow_right: Xplorer by Launch X of Innovacion Virtual  <b><em>(Bootcamp)</em></b> :rocket: <br><br> :arrow_right: Student by Oracle Next Education <b><em>(Bootcamp)</em></b> :game_die: | <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250"> |
-
+| ---            | :--        |
 
 ## Technologies
 ### Code  
@@ -59,4 +57,3 @@ int main() {
   <a href="https://www.instagram.com/cdanielvalente/"><img src="https://img.shields.io/badge/Instagram-cdanielvalente-C13584?logo=Instagram" alt="Instagram - cdanielvalente"></a>
   <a href="https://github.com/Daniel-Valente/"><img src="https://img.shields.io/badge/GitHub-Daniel--Valente-808080?logo=GitHub" alt="GitHub - Daniel-Valente"></a>
 </p>
-
