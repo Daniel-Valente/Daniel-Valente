@@ -2,7 +2,9 @@
 
 ### Hi there <img src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" width="100px"> 
 
-## I'm Carlos Daniel Valente Garcia 
+<h2> 
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=30&color=82F7D3&multiline=true&width=550&lines=I'm+Carlos+Daniel+Valente+Garcia"/>
+</h2>
 
 <br>
 
