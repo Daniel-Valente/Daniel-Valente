@@ -54,6 +54,6 @@ int main() {
 <p align="center">
   <a href="https://twitter.com/cdanielvalente"><img src="https://img.shields.io/badge/Twitter-cdanielvalente-00acee?logo=Twitter" alt="Twitter - cdanielvalente"></a>
   <a href="https://www.linkedin.com/in/carlos-daniel-valente-garcia/"><img src="https://img.shields.io/badge/LinkedIn-Carlos_Daniel_Valente_Garcia-0e76a8?logo=LinkedIn&logoColor=0e76a8" alt="LinkedIn - Carlos Daniel Valente Garcia"></a>
-  <a href="https://www.instagram.com/cdanielvalente/"><img src="https://img.shields.io/badge/Instagram-cdanielvalente-C13584?logo=Instagram" alt="Instagram - cdanielvalente"></a>
+  <a href="https://www.instagram.com/cdanvalente/"><img src="https://img.shields.io/badge/Instagram-cdanielvalente-C13584?logo=Instagram" alt="Instagram - cdanielvalente"></a>
   <a href="https://github.com/Daniel-Valente/"><img src="https://img.shields.io/badge/GitHub-Daniel--Valente-808080?logo=GitHub" alt="GitHub - Daniel-Valente"></a>
 </p>
