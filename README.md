@@ -29,7 +29,7 @@ int main() {
 
 ## About me
 
-| :arrow_right: Student Informatics Engineering at CUCEI :computer_mouse: <br><br> :arrow_right: Xplorer by Launch X of Innovacion Virtual  <b><em>(Bootcamp)</em></b> :rocket: <br><br> :arrow_right: Student by Oracle Next Education <b><em>(Bootcamp)</em></b> :game_die:  <br><br> :arrow_right: Intern at IBM 👀🐝Ⓜ️ | <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250"> |
+| :arrow_right: Informatics Engineering at CUCEI :computer_mouse: <br><br> :arrow_right: Xplorer by Launch X of Innovacion Virtual  <b><em>(Bootcamp)</em></b> :rocket: <br><br> :arrow_right: Student by Oracle Next Education <b><em>(Bootcamp)</em></b> :game_die:  <br><br> :arrow_right: Intern at IBM 👀🐝Ⓜ️ | <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250"> |
 | ---            | :--        |
 
 ## Technologies
